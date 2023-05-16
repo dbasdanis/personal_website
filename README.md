@@ -9,4 +9,5 @@ A repository containing the implementation of my personal website.
 - npm install
 - npm run dev
 - npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
 
