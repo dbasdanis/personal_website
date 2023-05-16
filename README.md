@@ -8,3 +8,5 @@ A repository containing the implementation of my personal website.
 - cd ./personal_website
 - npm install
 - npm run dev
+- npm install -D tailwindcss postcss autoprefixer
+
