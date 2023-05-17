@@ -2,6 +2,8 @@
 
 A repository containing the implementation of my personal website.
 
+source : https://www.youtube.com/watch?v=_oO4Qi5aVZs
+
 # Steps to create the project
 
 - npm create vite@latest
