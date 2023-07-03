@@ -6,8 +6,8 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>University of Thessaly <br className="sm:block hidden"/></h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        <pre>
+      <p className={`${styles.paragraph} max-w-[1000px] mt-5`}>
+        
         Minor in Electrical and Computer Engineering. <br />
         • Cumulative GPA: 8.28 / 10.00<br />
         • Thesis work: Predictive Model of Motion Picture Success using Machine Learning Algorithms<br />
@@ -15,7 +15,7 @@ const Billing = () => (
             motion pictures.<br />
             - Achieved a grade of 10/10, for the thesis work, demonstrating exceptional research and<br />
             analytical skills.<br />
-        </pre>
+        
       </p>
     </div>
     
