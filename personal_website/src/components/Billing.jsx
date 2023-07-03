@@ -3,22 +3,22 @@ import styles, {layout}  from '../style';
 
 const Billing = () => (
   <section id="product" className={layout.sectionReverse}>
-    <div className={layout.sectionImgReverse}>
-      <img src={bill} alt="billing" className="w-[100%] h-[100%] relative z-[5]"/>
-    
-    </div>
 
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>Easily control your <br className="sm:block hidden"/> billing & invoicing.</h2>
+      <h2 className={styles.heading2}>University of Thessaly <br className="sm:block hidden"/></h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam, Mauris eu adipiscing ultices ametodio 
-        aenean neque. Fusce ipsum orci rhomcus aliporttitor integer platea placerat.
+        <pre>
+        Minor in Electrical and Computer Engineering. <br />
+        • Cumulative GPA: 8.28 / 10.00<br />
+        • Thesis work: Predictive Model of Motion Picture Success using Machine Learning Algorithms<br />
+            - Developed a predictive model using machine learning algorithms to forecast the success of<br />
+            motion pictures.<br />
+            - Achieved a grade of 10/10, for the thesis work, demonstrating exceptional research and<br />
+            analytical skills.<br />
+        </pre>
       </p>
-      <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
-        <img src={apple} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer" />
-        <img src={google} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer" />
-      </div>
     </div>
+    
   </section>
 )
 
