@@ -18,7 +18,7 @@ const FeatureCard = ({icon, title, content, index}) => (
   </div>
 )
 
-const Business = () => {
+const Experience = () => {
   return (
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
@@ -37,4 +37,4 @@ const Business = () => {
   )
 }
 
-export default Business
+export default Experience
