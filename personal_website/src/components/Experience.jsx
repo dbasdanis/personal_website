@@ -25,7 +25,7 @@ const Experience = () => {
         <h2 className={styles.heading2}>
           Experience <br className="sm:block hidden" /> 
         </h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Implement more than 30 successful projects in areas such as neural networks, machine learning, web development, networks. Techonologies that used during the projects: Python, C#, C, Java, Matlab, Flask, Django, REST APIs, Graph QL, HTML, CSS, JavaScript, React, Node.js, PostgreSQL, MongoDB, Kubernetes, Docker, Azure, Git.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Accomplish over 30 highly successful projects spanning diverse domains including neural networks, machine learning, web development, and networks. Employed an extensive range of cutting-edge technologies throughout these projects, such as Python, C#, C, Java, Matlab, Flask, Django, REST APIs, GraphQL, HTML, CSS, JavaScript, React, Node.js, PostgreSQL, MongoDB, Kubernetes, Docker, Azure, and Git.</p>
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>
