@@ -23,10 +23,9 @@ const Business = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the business, <br className="sm:block hidden" /> we'll handle the money.
+          Experience <br className="sm:block hidden" /> 
         </h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreads of credit cards on the market.</p>
-        <Button styles="mt-10"/>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Implement more than 30 successful projects in areas such as neural networks, machine learning, web development, networks. Techonologies that used during the projects: Python, C#, C, Java, Matlab, Flask, Django, REST APIs, Graph QL, HTML, CSS, JavaScript, React, Node.js, PostgreSQL, MongoDB, Kubernetes, Docker, Azure, Git.</p>
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>
