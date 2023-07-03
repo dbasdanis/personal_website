@@ -85,6 +85,7 @@ export const footerLinks = [
       },
       {
         name: "Github: https://github.com/dbasdanis",
+        link: "https://github.com/dbasdanis"
       },
       {
         name: "Address: Gustav-Freytag-Str. 2, 10827 Berlin Schöneberg",
