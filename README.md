@@ -6,7 +6,6 @@ source : https://www.youtube.com/watch?v=_oO4Qi5aVZs
 
 You can test the site on: https://personal-website-tau-ebon.vercel.app
 
-![alt text](https://github.com/dbasdanis/personal_website/blob/main/personal_website/app.png?raw=true)
 # Steps to create the project
 
 - npm create vite@latest
